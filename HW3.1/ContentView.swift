@@ -58,11 +58,10 @@ struct ContentView: View {
     }
 }
 
-extension ContentView {
     enum Colors {
         case red, green, yellow
     }
-}
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
