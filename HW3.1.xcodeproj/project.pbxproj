@@ -11,6 +11,8 @@
 		0A3D17FB2665D956006C8B81 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A3D17FA2665D956006C8B81 /* ContentView.swift */; };
 		0A3D17FD2665D957006C8B81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A3D17FC2665D957006C8B81 /* Assets.xcassets */; };
 		0A3D18002665D957006C8B81 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A3D17FF2665D957006C8B81 /* Preview Assets.xcassets */; };
+		0A3D18082665DA55006C8B81 /* TrafficCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A3D18072665DA55006C8B81 /* TrafficCircle.swift */; };
+		0A3D180A2665DD7A006C8B81 /* StartButtonText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A3D18092665DD7A006C8B81 /* StartButtonText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		0A3D17FC2665D957006C8B81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A3D17FF2665D957006C8B81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0A3D18012665D957006C8B81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A3D18072665DA55006C8B81 /* TrafficCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficCircle.swift; sourceTree = "<group>"; };
+		0A3D18092665DD7A006C8B81 /* StartButtonText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				0A3D17F82665D956006C8B81 /* HW3_1App.swift */,
 				0A3D17FA2665D956006C8B81 /* ContentView.swift */,
+				0A3D18092665DD7A006C8B81 /* StartButtonText.swift */,
+				0A3D18072665DA55006C8B81 /* TrafficCircle.swift */,
 				0A3D17FC2665D957006C8B81 /* Assets.xcassets */,
 				0A3D18012665D957006C8B81 /* Info.plist */,
 				0A3D17FE2665D957006C8B81 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				0A3D17FB2665D956006C8B81 /* ContentView.swift in Sources */,
 				0A3D17F92665D956006C8B81 /* HW3_1App.swift in Sources */,
+				0A3D180A2665DD7A006C8B81 /* StartButtonText.swift in Sources */,
+				0A3D18082665DA55006C8B81 /* TrafficCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
