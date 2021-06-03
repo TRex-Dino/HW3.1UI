@@ -28,11 +28,7 @@ struct ContentView: View {
                     TrafficCircle(color: .green, opacity: greenOpacity)
                 }
                 Spacer()
-                Button(action: {
-                    touchStart()
-                }) {
-                    StartButtonText(text: text)
-                }
+                StartButtonText(text: text, action: touchStart)
             }
             .padding()
         }
